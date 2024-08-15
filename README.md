@@ -5,8 +5,8 @@
 #### 'main' folder contains our learning procedure of YOLO
 
 #### Dataset
-We collected over 79,000 food ingredient images with 40 classes from Roboflow.
-classes were arranged based on the popularity. (Apple, Pork, Chicken, cabbage, ....)
+We collected over 79,000 food ingredient images with 40 classes from Roboflow.  
+Classes were arranged based on the popularity. (Apple, Pork, Chicken, cabbage, ....)  
 For those who are interested in the dataset, please feel free to contact me!"
 
 # Food Ingredient Detection
