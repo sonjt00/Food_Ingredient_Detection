@@ -1,4 +1,4 @@
-### Ongoing Project
+### Ongoing Project (2024.06 ~)
 
 # Food Ingredient Detection
 ## Object Detection & Freshness Assessment for Food Ingredients
