@@ -1,6 +1,6 @@
 ### Ongoing Project (2024.06 ~)
 
-![image](./detected_ingredients)
+![image](./detected_ingredients.png)
 #### 'inference_sample' folder is for testing the model
 #### 'detected' folder is the object-detected results of our model
 #### 'main' folder contains our learning procedure of YOLO
