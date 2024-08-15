@@ -7,7 +7,7 @@
 #### Dataset
 We collected over 79,000 food ingredient images with 40 classes from Roboflow.  
 Classes were arranged based on the popularity. (Apple, Pork, Chicken, cabbage, ....)  
-For those who are interested in the dataset, please feel free to contact me!"
+For those who are interested in the dataset, please feel free to contact me!
 
 # Food Ingredient Detection
 ## Object Detection & Freshness Assessment for Food Ingredients
