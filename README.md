@@ -4,9 +4,10 @@
 #### 'detected' folder is the object-detected results of our model
 #### 'main' folder contains our learning procedure of YOLO
 
-#### We collected over 79,000 food ingredient images with 40 classes
-#### classes were arranged based on the popularity. (Apple, Pork, Chicken, cabbage, ....)
-#### For those who are interested in the dataset, please feel free to contact me!"
+#### Dataset
+We collected over 79,000 food ingredient images with 40 classes from Roboflow.
+classes were arranged based on the popularity. (Apple, Pork, Chicken, cabbage, ....)
+For those who are interested in the dataset, please feel free to contact me!"
 
 # Food Ingredient Detection
 ## Object Detection & Freshness Assessment for Food Ingredients
