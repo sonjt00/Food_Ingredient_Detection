@@ -1,6 +1,5 @@
 ### Ongoing Project (2024.06 ~)
 
-![image](./detected_ingredients.png)
 #### 'inference_sample' folder is for testing the model
 #### 'detected' folder is the object-detected results of our model
 #### 'main' folder contains our learning procedure of YOLO
@@ -11,6 +10,9 @@ Classes were arranged based on the popularity. (Apple, Pork, Chicken, cabbage, .
 For those who are interested in the dataset, please feel free to contact me!
 
 # Food Ingredient Detection
+
+![image](./detected_ingredients.png)
+
 ## Object Detection & Freshness Assessment for Food Ingredients
 Welcome to the Food Ingredient Detection project! This repository is part of a larger platform designed to facilitate the buying and selling of leftover ingredients. The platform leverages advanced AI techniques to detect, assess, and value food ingredients based on their freshness.
 
